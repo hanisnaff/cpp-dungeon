@@ -55,6 +55,7 @@ int main() {
         if (map[ny][nx] == 'M') {
             --health;
             std::cout << "The monster hits you!\n";
+            continue;
         }
 
         map[py][px] = '.';
