@@ -22,7 +22,7 @@ void draw(const Map& map, int health, int treasure) {
 int main() {
     Map map = {
         "########",
-        "#..#...#",
+        "#@.#...#",
         "#..$...#",
         "#.##.#.#",
         "#....M.#",
