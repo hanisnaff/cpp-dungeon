@@ -5,11 +5,6 @@
 #include <string>
 #include <utility>
 
-#include <array>
-#include <iostream>
-#include <random>
-#include <string>
-
 constexpr int SIZE = 8;
 using Map = std::array<std::string, SIZE>;
 
