@@ -32,7 +32,11 @@ Run `build/tiny_dungeon` on Linux/macOS or `build\Debug\tiny_dungeon.exe` on Win
 ## Related projects
 - [Tic-Tac-Toe AI](https://github.com/hanisnaff/cpp-tictactoe-ai)
 - [Snake](https://github.com/hanisnaff/cpp-snake)
-- [Portfolio](https://github.com/hanisnaff/hanisnaff)
+- [Portfolio](https://hitesh-jogeshwari-portfolio.vercel.app)
 
 ## License
 MIT
+
+## Developer portfolio
+
+[Hitesh Jogeshwari — Portfolio](https://hitesh-jogeshwari-portfolio.vercel.app/)
